@@ -1,0 +1,31 @@
+Before (True Class),After (Predicted),Probability,Detection Time (ms),Level,Action
+DDoS,DDoS,0.998,0.0168,Level 4,Firmware Rollback - DDoS
+Reconnaissance,Reconnaissance,0.9999,0.0168,Level 4,Firmware Rollback - Reconnaissance
+Normal,Normal,1.0,0.0168,None,Normal traffic — no action
+Normal,Normal,0.99,0.0168,None,Normal traffic — no action
+DDoS,DDoS,0.996,0.0168,Level 4,Firmware Rollback - DDoS
+Backdoor,Backdoor,1.0,0.0168,Level 4,Firmware Rollback - Backdoor
+DDoS,DDoS,0.996,0.0168,Level 4,Firmware Rollback - DDoS
+DDoS,DDoS,0.9994,0.0168,Level 4,Firmware Rollback - DDoS
+Backdoor,Backdoor,0.9993,0.0168,Level 4,Firmware Rollback - Backdoor
+DDoS,DDoS,0.9961,0.0168,Level 4,Firmware Rollback - DDoS
+Normal,Normal,0.9903,0.0168,None,Normal traffic — no action
+DDoS,DDoS,0.9996,0.0168,Level 4,Firmware Rollback - DDoS
+Intrusion,Intrusion,0.8841,0.0168,Level 3,IP Blocking + Re-auth - Intrusion
+DDoS,DDoS,0.9999,0.0168,Level 4,Firmware Rollback - DDoS
+DDoS,DDoS,0.9972,0.0168,Level 4,Firmware Rollback - DDoS
+Intrusion,Intrusion,0.6469,0.0168,Level 1,Alert logged - Intrusion
+Normal,Normal,0.9933,0.0168,None,Normal traffic — no action
+Normal,Normal,1.0,0.0168,None,Normal traffic — no action
+Intrusion,Intrusion,0.9347,0.0168,Level 3,IP Blocking + Re-auth - Intrusion
+DDoS,DDoS,0.9999,0.0168,Level 4,Firmware Rollback - DDoS
+Normal,Normal,0.9927,0.0168,None,Normal traffic — no action
+DDoS,DDoS,0.9939,0.0168,Level 4,Firmware Rollback - DDoS
+DDoS,DDoS,0.998,0.0168,Level 4,Firmware Rollback - DDoS
+Intrusion,Intrusion,0.6348,0.0168,Level 1,Alert logged - Intrusion
+Backdoor,Backdoor,0.9964,0.0168,Level 4,Firmware Rollback - Backdoor
+DDoS,DDoS,0.9999,0.0168,Level 4,Firmware Rollback - DDoS
+DDoS,DDoS,0.996,0.0168,Level 4,Firmware Rollback - DDoS
+Intrusion,Intrusion,0.9948,0.0168,Level 4,Firmware Rollback - Intrusion
+Backdoor,Backdoor,0.9963,0.0168,Level 4,Firmware Rollback - Backdoor
+Backdoor,Backdoor,0.9994,0.0168,Level 4,Firmware Rollback - Backdoor
